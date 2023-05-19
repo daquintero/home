@@ -1,0 +1,114 @@
+DEBIAN PACKAGE INSTALL
+
+
+
+
+Updating...
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+
+
+installing git...
+already installed.
+
+
+
+installing make...
+already installed.
+
+
+
+installing cmake...
+dpkg-query: no packages found matching cmake
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
+
+
+
+installing build-essential...
+dpkg-query: no packages found matching build-essential
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
+
+
+
+installing zip...
+dpkg-query: no packages found matching zip
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
+
+
+
+installing unzip...
+already installed.
+
+
+
+installing xclip...
+dpkg-query: no packages found matching xclip
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
+
+
+
+installing htop...
+already installed.
+
+
+
+installing whois...
+dpkg-query: no packages found matching whois
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
+
+
+
+installing pandoc...
+dpkg-query: no packages found matching pandoc
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
+
+
+
+installing nodejs...
+already installed.
+
+
+
+installing zsh...
+already installed.
+
+
+
+installing tcsh...
+already installed.
