@@ -119,3 +119,4 @@ fi
 alias lsa="ls -a"
 alias pycharm="/opt/pycharm-*/bin/pycharm.sh"
 alias webstorm="/opt/webstorm-*/bin/webstorm.sh"
+.anaconda/etc/profile.d/conda.sh
