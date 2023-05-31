@@ -1,0 +1,34 @@
+name: base
+channels:
+  - conda-forge
+  - fastai
+dependencies:
+  - altair
+  - bokeh
+  - ca-certificates
+  - certifi
+  - ipykernel
+  - ipympl
+  - isort
+  - jupyter_bokeh
+  - jupyterhub
+  - jupyterlab
+  - jupyterlab-git
+  - jupyterlab-lsp
+  - jupyterlab_code_formatter
+  - jupyterlab_vim
+  - jupytext
+  - matplotlib
+  - nbdime
+  - openpyxl
+  - openssl
+  - pandas
+  - pip
+  - plotly
+  - pyright
+  - pytables
+  - pytest
+  - scipy
+  - setuptools
+  - twine
+prefix: /home/daquintero/.anaconda
