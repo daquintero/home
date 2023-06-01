@@ -119,4 +119,13 @@ fi
 alias lsa="ls -a"
 alias pycharm="/opt/pycharm-*/bin/pycharm.sh"
 alias webstorm="/opt/webstorm-*/bin/webstorm.sh"
-.anaconda/etc/profile.d/conda.sh
+
+# Scripts
+source $HOME/.anaconda/etc/profile.d/conda.sh
+source $HOME/.anaconda/etc/profile.d/mamba.sh
+
+
+mamba activate base
+
+# Created by `pipx` on 2023-06-01 07:43:26
+export PATH="$PATH:/home/daquintero/.local/bin"

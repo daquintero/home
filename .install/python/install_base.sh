@@ -22,19 +22,21 @@ CONDAROOT="$HOME/.anaconda"
 if [ ! -d "$CONDAROOT" ]; then
     printf "installing anaconda python at %s... " "$CONDAROOT"
     cd "$HOME" || exit 0
-    curl -L https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh  --output /tmp/miniconda.sh --silent
+    curl -L  https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh --output /tmp/miniconda.sh --silent
     bash /tmp/miniconda.sh -b -p "$CONDAROOT"
     rm /tmp/miniconda.sh
     echo "installed."
 fi
 
+chmod u+rwx "$CONDAROOT/etc/profile.d/conda.sh"
 source "$CONDAROOT/etc/profile.d/conda.sh"
 
+echo $CONDAROOT/etc/profile.d/mamba.sh >> $HOME/.bashrc
 
 ## base environment
 #-------------------------------------------------------------------------------
 
-mamba env update -n base -f "$HOME/.install/python_envs/base.yml"
+mamba env update -n base -f "$HOME/.install/python/base.yml"
 
 $CONDAROOT/bin/python -m ipykernel install --user --name base --display-name base
 $CONDAROOT/bin/jupyter labextension install \
