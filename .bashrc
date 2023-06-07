@@ -129,3 +129,5 @@ mamba activate base
 
 # Created by `pipx` on 2023-06-01 07:43:26
 export PATH="$PATH:/home/daquintero/.local/bin"
+export VISUAL=vim
+export EDITOR="$VISUAL"
