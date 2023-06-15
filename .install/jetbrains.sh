@@ -13,4 +13,4 @@ sudo snap install pycharm-professional --classic
 #sudo tar xzf WebStorm-*.tar.gz -C /opt/
 #
 #echo -e "alias pycharm=\"/opt/pycharm-*/bin/pycharm.sh\"" >> ~/.bashrc
-#echo -e "alias webstorm=\"/opt/webstorm-*/bin/webstorm.sh\"" >> ~/.webstorm
+#echo -e "alias webstorm=\"/opt/WebStorm-*/bin/webstorm.sh\"" >> ~/.webstorm
