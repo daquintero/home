@@ -8,32 +8,32 @@ Updating...
 Hit:1 http://archive.ubuntu.com/ubuntu jammy InRelease
 Get:2 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]
 Get:3 http://archive.ubuntu.com/ubuntu jammy-updates InRelease [119 kB]
-Get:4 http://security.ubuntu.com/ubuntu jammy-security/main amd64 Packages [383 kB]
-Get:5 http://archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
-Get:6 http://security.ubuntu.com/ubuntu jammy-security/main Translation-en [111 kB]
-Get:7 http://security.ubuntu.com/ubuntu jammy-security/main amd64 c-n-f Metadata [9812 B]
-Get:8 http://security.ubuntu.com/ubuntu jammy-security/restricted amd64 Packages [250 kB]
-Get:9 http://security.ubuntu.com/ubuntu jammy-security/restricted Translation-en [36.6 kB]
-Get:10 http://security.ubuntu.com/ubuntu jammy-security/universe amd64 Packages [726 kB]
-Get:11 http://security.ubuntu.com/ubuntu jammy-security/universe Translation-en [126 kB]
-Get:12 http://security.ubuntu.com/ubuntu jammy-security/universe amd64 c-n-f Metadata [14.6 kB]
-Get:13 http://security.ubuntu.com/ubuntu jammy-security/multiverse amd64 Packages [30.2 kB]
-Get:14 http://security.ubuntu.com/ubuntu jammy-security/multiverse Translation-en [5828 B]
-Get:15 http://security.ubuntu.com/ubuntu jammy-security/multiverse amd64 c-n-f Metadata [252 B]
-Get:16 http://archive.ubuntu.com/ubuntu jammy/universe amd64 Packages [14.1 MB]
+Get:4 http://security.ubuntu.com/ubuntu jammy-security/main amd64 Packages [499 kB]
+Get:5 http://security.ubuntu.com/ubuntu jammy-security/main Translation-en [129 kB]
+Get:6 http://security.ubuntu.com/ubuntu jammy-security/main amd64 c-n-f Metadata [10.3 kB]
+Get:7 http://security.ubuntu.com/ubuntu jammy-security/restricted amd64 Packages [415 kB]
+Get:8 http://archive.ubuntu.com/ubuntu jammy-backports InRelease [108 kB]
+Get:9 http://security.ubuntu.com/ubuntu jammy-security/restricted Translation-en [63.3 kB]
+Get:10 http://security.ubuntu.com/ubuntu jammy-security/universe amd64 Packages [737 kB]
+Get:11 http://archive.ubuntu.com/ubuntu jammy/universe amd64 Packages [14.1 MB]
+Get:12 http://security.ubuntu.com/ubuntu jammy-security/universe Translation-en [130 kB]
+Get:13 http://security.ubuntu.com/ubuntu jammy-security/universe amd64 c-n-f Metadata [15.6 kB]
+Get:14 http://security.ubuntu.com/ubuntu jammy-security/multiverse amd64 Packages [30.2 kB]
+Get:15 http://security.ubuntu.com/ubuntu jammy-security/multiverse Translation-en [5828 B]
+Get:16 http://security.ubuntu.com/ubuntu jammy-security/multiverse amd64 c-n-f Metadata [252 B]
 Get:17 http://archive.ubuntu.com/ubuntu jammy/universe Translation-en [5652 kB]
 Get:18 http://archive.ubuntu.com/ubuntu jammy/universe amd64 c-n-f Metadata [286 kB]
 Get:19 http://archive.ubuntu.com/ubuntu jammy/multiverse amd64 Packages [217 kB]
 Get:20 http://archive.ubuntu.com/ubuntu jammy/multiverse Translation-en [112 kB]
 Get:21 http://archive.ubuntu.com/ubuntu jammy/multiverse amd64 c-n-f Metadata [8372 B]
-Get:22 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [599 kB]
-Get:23 http://archive.ubuntu.com/ubuntu jammy-updates/main Translation-en [170 kB]
-Get:24 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 c-n-f Metadata [14.5 kB]
-Get:25 http://archive.ubuntu.com/ubuntu jammy-updates/restricted amd64 Packages [251 kB]
-Get:26 http://archive.ubuntu.com/ubuntu jammy-updates/restricted Translation-en [36.9 kB]
-Get:27 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [906 kB]
-Get:28 http://archive.ubuntu.com/ubuntu jammy-updates/universe Translation-en [186 kB]
-Get:29 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 c-n-f Metadata [18.9 kB]
+Get:22 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [721 kB]
+Get:23 http://archive.ubuntu.com/ubuntu jammy-updates/main Translation-en [190 kB]
+Get:24 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 c-n-f Metadata [15.3 kB]
+Get:25 http://archive.ubuntu.com/ubuntu jammy-updates/restricted amd64 Packages [418 kB]
+Get:26 http://archive.ubuntu.com/ubuntu jammy-updates/restricted Translation-en [63.8 kB]
+Get:27 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [927 kB]
+Get:28 http://archive.ubuntu.com/ubuntu jammy-updates/universe Translation-en [197 kB]
+Get:29 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 c-n-f Metadata [20.4 kB]
 Get:30 http://archive.ubuntu.com/ubuntu jammy-updates/multiverse amd64 Packages [35.3 kB]
 Get:31 http://archive.ubuntu.com/ubuntu jammy-updates/multiverse Translation-en [8452 B]
 Get:32 http://archive.ubuntu.com/ubuntu jammy-updates/multiverse amd64 c-n-f Metadata [468 B]
@@ -41,30 +41,139 @@ Get:33 http://archive.ubuntu.com/ubuntu jammy-backports/main amd64 Packages [40.
 Get:34 http://archive.ubuntu.com/ubuntu jammy-backports/main Translation-en [10.2 kB]
 Get:35 http://archive.ubuntu.com/ubuntu jammy-backports/main amd64 c-n-f Metadata [388 B]
 Get:36 http://archive.ubuntu.com/ubuntu jammy-backports/restricted amd64 c-n-f Metadata [116 B]
-Get:37 http://archive.ubuntu.com/ubuntu jammy-backports/universe amd64 Packages [22.2 kB]
+Get:37 http://archive.ubuntu.com/ubuntu jammy-backports/universe amd64 Packages [23.4 kB]
 Get:38 http://archive.ubuntu.com/ubuntu jammy-backports/universe Translation-en [15.0 kB]
 Get:39 http://archive.ubuntu.com/ubuntu jammy-backports/universe amd64 c-n-f Metadata [548 B]
 Get:40 http://archive.ubuntu.com/ubuntu jammy-backports/multiverse amd64 c-n-f Metadata [116 B]
-Fetched 24.7 MB in 5s (5462 kB/s)
+Fetched 20.2 MB in 3s (7034 kB/s)
 Reading package lists...
 Building dependency tree...
 Reading state information...
-5 packages can be upgraded. Run 'apt list --upgradable' to see them.
+54 packages can be upgraded. Run 'apt list --upgradable' to see them.
 Reading package lists...
 Building dependency tree...
 Reading state information...
 Calculating upgrade...
 The following packages will be upgraded:
-  distro-info-data libgssapi-krb5-2 libk5crypto3 libkrb5-3 libkrb5support0
-5 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
-Need to get 625 kB of archives.
-After this operation, 1024 B of additional disk space will be used.
-Get:1 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libk5crypto3 amd64 1.19.2-2ubuntu0.2 [86.3 kB]
-Get:2 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libkrb5support0 amd64 1.19.2-2ubuntu0.2 [32.3 kB]
-Get:3 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libkrb5-3 amd64 1.19.2-2ubuntu0.2 [357 kB]
-Get:4 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libgssapi-krb5-2 amd64 1.19.2-2ubuntu0.2 [145 kB]
-Get:5 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 distro-info-data all 0.52ubuntu0.4 [4986 B]
-Fetched 625 kB in 0s (4432 kB/s)
+  apport binutils binutils-common binutils-x86-64-linux-gnu ca-certificates
+  distro-info-data dpkg iptables libbinutils libcap2 libcap2-bin libctf-nobfd0
+  libctf0 libglib2.0-0 libglib2.0-bin libglib2.0-data libgssapi-krb5-2
+  libip4tc2 libip6tc2 libk5crypto3 libkrb5-3 libkrb5support0 libncurses6
+  libncursesw6 libpam-cap libperl5.34 libpython3.10 libpython3.10-minimal
+  libpython3.10-stdlib libssh-4 libssl3 libtinfo6 libx11-6 libx11-data
+  libxtables12 ncurses-base ncurses-bin openssl perl perl-base
+  perl-modules-5.34 python3-apport python3-problem-report
+  python3-software-properties python3.10 python3.10-minimal snapd
+  software-properties-common tzdata vim vim-common vim-runtime vim-tiny xxd
+54 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+38 standard LTS security updates
+Need to get 63.2 MB of archives.
+After this operation, 11.3 kB disk space will be freed.
+Get:1 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 dpkg amd64 1.21.1ubuntu2.2 [1239 kB]
+Get:2 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 ncurses-bin amd64 6.3-2ubuntu0.1 [184 kB]
+Get:3 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libperl5.34 amd64 5.34.0-3ubuntu1.2 [4818 kB]
+Get:4 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 perl amd64 5.34.0-3ubuntu1.2 [232 kB]
+Get:5 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 perl-base amd64 5.34.0-3ubuntu1.2 [1759 kB]
+Get:6 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 perl-modules-5.34 all 5.34.0-3ubuntu1.2 [2977 kB]
+Get:7 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 ncurses-base all 6.3-2ubuntu0.1 [20.2 kB]
+Get:8 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libpython3.10 amd64 3.10.6-1~22.04.2ubuntu1.1 [1955 kB]
+Get:9 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libssl3 amd64 3.0.2-0ubuntu1.10 [1901 kB]
+Get:10 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 python3.10 amd64 3.10.6-1~22.04.2ubuntu1.1 [497 kB]
+Get:11 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libpython3.10-stdlib amd64 3.10.6-1~22.04.2ubuntu1.1 [1832 kB]
+Get:12 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 python3.10-minimal amd64 3.10.6-1~22.04.2ubuntu1.1 [2262 kB]
+Get:13 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libpython3.10-minimal amd64 3.10.6-1~22.04.2ubuntu1.1 [810 kB]
+Get:14 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libncurses6 amd64 6.3-2ubuntu0.1 [111 kB]
+Get:15 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libncursesw6 amd64 6.3-2ubuntu0.1 [147 kB]
+Get:16 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libtinfo6 amd64 6.3-2ubuntu0.1 [105 kB]
+Get:17 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libcap2 amd64 1:2.44-1ubuntu0.22.04.1 [18.3 kB]
+Get:18 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libk5crypto3 amd64 1.19.2-2ubuntu0.2 [86.3 kB]
+Get:19 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libkrb5support0 amd64 1.19.2-2ubuntu0.2 [32.3 kB]
+Get:20 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libkrb5-3 amd64 1.19.2-2ubuntu0.2 [357 kB]
+Get:21 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libgssapi-krb5-2 amd64 1.19.2-2ubuntu0.2 [145 kB]
+Get:22 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 openssl amd64 3.0.2-0ubuntu1.10 [1183 kB]
+Get:23 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 ca-certificates all 20230311ubuntu0.22.04.1 [155 kB]
+Get:24 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 distro-info-data all 0.52ubuntu0.4 [4986 B]
+Get:25 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libpam-cap amd64 1:2.44-1ubuntu0.22.04.1 [7928 B]
+Get:26 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libcap2-bin amd64 1:2.44-1ubuntu0.22.04.1 [26.0 kB]
+Get:27 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libglib2.0-data all 2.72.4-0ubuntu2.2 [4612 B]
+Get:28 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libglib2.0-bin amd64 2.72.4-0ubuntu2.2 [80.9 kB]
+Get:29 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libglib2.0-0 amd64 2.72.4-0ubuntu2.2 [1463 kB]
+Get:30 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 iptables amd64 1.8.7-1ubuntu5.1 [455 kB]
+Get:31 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libxtables12 amd64 1.8.7-1ubuntu5.1 [31.2 kB]
+Get:32 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libip6tc2 amd64 1.8.7-1ubuntu5.1 [20.2 kB]
+Get:33 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libip4tc2 amd64 1.8.7-1ubuntu5.1 [19.8 kB]
+Get:34 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 tzdata all 2023c-0ubuntu0.22.04.2 [349 kB]
+Get:35 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 vim amd64 2:8.2.3995-1ubuntu2.8 [1731 kB]
+Get:36 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 vim-tiny amd64 2:8.2.3995-1ubuntu2.8 [707 kB]
+Get:37 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 vim-runtime all 2:8.2.3995-1ubuntu2.8 [6826 kB]
+Get:38 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 xxd amd64 2:8.2.3995-1ubuntu2.8 [53.8 kB]
+Get:39 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 vim-common all 2:8.2.3995-1ubuntu2.8 [81.5 kB]
+Get:40 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libx11-data all 2:1.7.5-1ubuntu0.2 [119 kB]
+Get:41 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libx11-6 amd64 2:1.7.5-1ubuntu0.2 [666 kB]
+Get:42 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 python3-problem-report all 2.20.11-0ubuntu82.5 [11.1 kB]
+Get:43 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 python3-apport all 2.20.11-0ubuntu82.5 [88.9 kB]
+Get:44 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 apport all 2.20.11-0ubuntu82.5 [133 kB]
+Get:45 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libctf0 amd64 2.38-4ubuntu2.2 [103 kB]
+Get:46 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libctf-nobfd0 amd64 2.38-4ubuntu2.2 [107 kB]
+Get:47 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 binutils-x86-64-linux-gnu amd64 2.38-4ubuntu2.2 [2328 kB]
+Get:48 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libbinutils amd64 2.38-4ubuntu2.2 [660 kB]
+Get:49 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 binutils amd64 2.38-4ubuntu2.2 [3186 B]
+Get:50 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 binutils-common amd64 2.38-4ubuntu2.2 [222 kB]
+Get:51 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libssh-4 amd64 0.9.6-2ubuntu0.22.04.1 [185 kB]
+Get:52 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 software-properties-common all 0.99.22.7 [14.1 kB]
+Get:53 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 python3-software-properties all 0.99.22.7 [28.8 kB]
+Get:54 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 snapd amd64 2.58+22.04.1 [23.8 MB]
+Preconfiguring packages ...
+Fetched 63.2 MB in 5s (12.2 MB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24137 files and directories currently installed.)
+Preparing to unpack .../dpkg_1.21.1ubuntu2.2_amd64.deb ...
+Unpacking dpkg (1.21.1ubuntu2.2) over (1.21.1ubuntu2.1) ...
+Setting up dpkg (1.21.1ubuntu2.2) ...
+dpkg-db-backup.service is a disabled or a static unit not running, not starting it.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24137 files and directories currently installed.)
+Preparing to unpack .../ncurses-bin_6.3-2ubuntu0.1_amd64.deb ...
+Unpacking ncurses-bin (6.3-2ubuntu0.1) over (6.3-2) ...
+Setting up ncurses-bin (6.3-2ubuntu0.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24137 files and directories currently installed.)
+Preparing to unpack .../libperl5.34_5.34.0-3ubuntu1.2_amd64.deb ...
+Unpacking libperl5.34:amd64 (5.34.0-3ubuntu1.2) over (5.34.0-3ubuntu1.1) ...
+Preparing to unpack .../perl_5.34.0-3ubuntu1.2_amd64.deb ...
+Unpacking perl (5.34.0-3ubuntu1.2) over (5.34.0-3ubuntu1.1) ...
+Preparing to unpack .../perl-base_5.34.0-3ubuntu1.2_amd64.deb ...
+Unpacking perl-base (5.34.0-3ubuntu1.2) over (5.34.0-3ubuntu1.1) ...
+Setting up perl-base (5.34.0-3ubuntu1.2) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24137 files and directories currently installed.)
+Preparing to unpack .../perl-modules-5.34_5.34.0-3ubuntu1.2_all.deb ...
+Unpacking perl-modules-5.34 (5.34.0-3ubuntu1.2) over (5.34.0-3ubuntu1.1) ...
+Preparing to unpack .../ncurses-base_6.3-2ubuntu0.1_all.deb ...
+Unpacking ncurses-base (6.3-2ubuntu0.1) over (6.3-2) ...
+Setting up ncurses-base (6.3-2ubuntu0.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24137 files and directories currently installed.)
+Preparing to unpack .../libpython3.10_3.10.6-1~22.04.2ubuntu1.1_amd64.deb ...
+Unpacking libpython3.10:amd64 (3.10.6-1~22.04.2ubuntu1.1) over (3.10.6-1~22.04.2ubuntu1) ...
+Preparing to unpack .../libssl3_3.0.2-0ubuntu1.10_amd64.deb ...
+Unpacking libssl3:amd64 (3.0.2-0ubuntu1.10) over (3.0.2-0ubuntu1.9) ...
+Setting up libssl3:amd64 (3.0.2-0ubuntu1.10) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24137 files and directories currently installed.)
+Preparing to unpack .../0-python3.10_3.10.6-1~22.04.2ubuntu1.1_amd64.deb ...
+Unpacking python3.10 (3.10.6-1~22.04.2ubuntu1.1) over (3.10.6-1~22.04.2ubuntu1) ...
+Preparing to unpack .../1-libpython3.10-stdlib_3.10.6-1~22.04.2ubuntu1.1_amd64.deb ...
+Unpacking libpython3.10-stdlib:amd64 (3.10.6-1~22.04.2ubuntu1.1) over (3.10.6-1~22.04.2ubuntu1) ...
+Preparing to unpack .../2-python3.10-minimal_3.10.6-1~22.04.2ubuntu1.1_amd64.deb ...
+Unpacking python3.10-minimal (3.10.6-1~22.04.2ubuntu1.1) over (3.10.6-1~22.04.2ubuntu1) ...
+Preparing to unpack .../3-libpython3.10-minimal_3.10.6-1~22.04.2ubuntu1.1_amd64.deb ...
+Unpacking libpython3.10-minimal:amd64 (3.10.6-1~22.04.2ubuntu1.1) over (3.10.6-1~22.04.2ubuntu1) ...
+Preparing to unpack .../4-libncurses6_6.3-2ubuntu0.1_amd64.deb ...
+Unpacking libncurses6:amd64 (6.3-2ubuntu0.1) over (6.3-2) ...
+Preparing to unpack .../5-libncursesw6_6.3-2ubuntu0.1_amd64.deb ...
+Unpacking libncursesw6:amd64 (6.3-2ubuntu0.1) over (6.3-2) ...
+Preparing to unpack .../6-libtinfo6_6.3-2ubuntu0.1_amd64.deb ...
+Unpacking libtinfo6:amd64 (6.3-2ubuntu0.1) over (6.3-2) ...
+Setting up libtinfo6:amd64 (6.3-2ubuntu0.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24137 files and directories currently installed.)
+Preparing to unpack .../libcap2_1%3a2.44-1ubuntu0.22.04.1_amd64.deb ...
+Unpacking libcap2:amd64 (1:2.44-1ubuntu0.22.04.1) over (1:2.44-1build3) ...
+Setting up libcap2:amd64 (1:2.44-1ubuntu0.22.04.1) ...
 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24137 files and directories currently installed.)
 Preparing to unpack .../libk5crypto3_1.19.2-2ubuntu0.2_amd64.deb ...
 Unpacking libk5crypto3:amd64 (1.19.2-2ubuntu0.2) over (1.19.2-2ubuntu0.1) ...
@@ -82,12 +191,179 @@ Preparing to unpack .../libgssapi-krb5-2_1.19.2-2ubuntu0.2_amd64.deb ...
 Unpacking libgssapi-krb5-2:amd64 (1.19.2-2ubuntu0.2) over (1.19.2-2ubuntu0.1) ...
 Setting up libgssapi-krb5-2:amd64 (1.19.2-2ubuntu0.2) ...
 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24137 files and directories currently installed.)
-Preparing to unpack .../distro-info-data_0.52ubuntu0.4_all.deb ...
+Preparing to unpack .../00-openssl_3.0.2-0ubuntu1.10_amd64.deb ...
+Unpacking openssl (3.0.2-0ubuntu1.10) over (3.0.2-0ubuntu1.9) ...
+Preparing to unpack .../01-ca-certificates_20230311ubuntu0.22.04.1_all.deb ...
+Unpacking ca-certificates (20230311ubuntu0.22.04.1) over (20211016ubuntu0.22.04.1) ...
+Preparing to unpack .../02-distro-info-data_0.52ubuntu0.4_all.deb ...
 Unpacking distro-info-data (0.52ubuntu0.4) over (0.52ubuntu0.3) ...
+Preparing to unpack .../03-libpam-cap_1%3a2.44-1ubuntu0.22.04.1_amd64.deb ...
+Unpacking libpam-cap:amd64 (1:2.44-1ubuntu0.22.04.1) over (1:2.44-1build3) ...
+Preparing to unpack .../04-libcap2-bin_1%3a2.44-1ubuntu0.22.04.1_amd64.deb ...
+Unpacking libcap2-bin (1:2.44-1ubuntu0.22.04.1) over (1:2.44-1build3) ...
+Preparing to unpack .../05-libglib2.0-data_2.72.4-0ubuntu2.2_all.deb ...
+Unpacking libglib2.0-data (2.72.4-0ubuntu2.2) over (2.72.4-0ubuntu2) ...
+Preparing to unpack .../06-libglib2.0-bin_2.72.4-0ubuntu2.2_amd64.deb ...
+Unpacking libglib2.0-bin (2.72.4-0ubuntu2.2) over (2.72.4-0ubuntu2) ...
+Preparing to unpack .../07-libglib2.0-0_2.72.4-0ubuntu2.2_amd64.deb ...
+Unpacking libglib2.0-0:amd64 (2.72.4-0ubuntu2.2) over (2.72.4-0ubuntu2) ...
+Preparing to unpack .../08-iptables_1.8.7-1ubuntu5.1_amd64.deb ...
+Unpacking iptables (1.8.7-1ubuntu5.1) over (1.8.7-1ubuntu5) ...
+Preparing to unpack .../09-libxtables12_1.8.7-1ubuntu5.1_amd64.deb ...
+Unpacking libxtables12:amd64 (1.8.7-1ubuntu5.1) over (1.8.7-1ubuntu5) ...
+Preparing to unpack .../10-libip6tc2_1.8.7-1ubuntu5.1_amd64.deb ...
+Unpacking libip6tc2:amd64 (1.8.7-1ubuntu5.1) over (1.8.7-1ubuntu5) ...
+Preparing to unpack .../11-libip4tc2_1.8.7-1ubuntu5.1_amd64.deb ...
+Unpacking libip4tc2:amd64 (1.8.7-1ubuntu5.1) over (1.8.7-1ubuntu5) ...
+Preparing to unpack .../12-tzdata_2023c-0ubuntu0.22.04.2_all.deb ...
+Unpacking tzdata (2023c-0ubuntu0.22.04.2) over (2023c-0ubuntu0.22.04.1) ...
+Preparing to unpack .../13-vim_2%3a8.2.3995-1ubuntu2.8_amd64.deb ...
+Unpacking vim (2:8.2.3995-1ubuntu2.8) over (2:8.2.3995-1ubuntu2.7) ...
+Preparing to unpack .../14-vim-tiny_2%3a8.2.3995-1ubuntu2.8_amd64.deb ...
+Unpacking vim-tiny (2:8.2.3995-1ubuntu2.8) over (2:8.2.3995-1ubuntu2.7) ...
+Preparing to unpack .../15-vim-runtime_2%3a8.2.3995-1ubuntu2.8_all.deb ...
+Unpacking vim-runtime (2:8.2.3995-1ubuntu2.8) over (2:8.2.3995-1ubuntu2.7) ...
+Preparing to unpack .../16-xxd_2%3a8.2.3995-1ubuntu2.8_amd64.deb ...
+Unpacking xxd (2:8.2.3995-1ubuntu2.8) over (2:8.2.3995-1ubuntu2.7) ...
+Preparing to unpack .../17-vim-common_2%3a8.2.3995-1ubuntu2.8_all.deb ...
+Unpacking vim-common (2:8.2.3995-1ubuntu2.8) over (2:8.2.3995-1ubuntu2.7) ...
+Preparing to unpack .../18-libx11-data_2%3a1.7.5-1ubuntu0.2_all.deb ...
+Unpacking libx11-data (2:1.7.5-1ubuntu0.2) over (2:1.7.5-1) ...
+Preparing to unpack .../19-libx11-6_2%3a1.7.5-1ubuntu0.2_amd64.deb ...
+Unpacking libx11-6:amd64 (2:1.7.5-1ubuntu0.2) over (2:1.7.5-1) ...
+Preparing to unpack .../20-python3-problem-report_2.20.11-0ubuntu82.5_all.deb ...
+Unpacking python3-problem-report (2.20.11-0ubuntu82.5) over (2.20.11-0ubuntu82.4) ...
+Preparing to unpack .../21-python3-apport_2.20.11-0ubuntu82.5_all.deb ...
+Unpacking python3-apport (2.20.11-0ubuntu82.5) over (2.20.11-0ubuntu82.4) ...
+Preparing to unpack .../22-apport_2.20.11-0ubuntu82.5_all.deb ...
+Unpacking apport (2.20.11-0ubuntu82.5) over (2.20.11-0ubuntu82.4) ...
+Preparing to unpack .../23-libctf0_2.38-4ubuntu2.2_amd64.deb ...
+Unpacking libctf0:amd64 (2.38-4ubuntu2.2) over (2.38-4ubuntu2.1) ...
+Preparing to unpack .../24-libctf-nobfd0_2.38-4ubuntu2.2_amd64.deb ...
+Unpacking libctf-nobfd0:amd64 (2.38-4ubuntu2.2) over (2.38-4ubuntu2.1) ...
+Preparing to unpack .../25-binutils-x86-64-linux-gnu_2.38-4ubuntu2.2_amd64.deb ...
+Unpacking binutils-x86-64-linux-gnu (2.38-4ubuntu2.2) over (2.38-4ubuntu2.1) ...
+Preparing to unpack .../26-libbinutils_2.38-4ubuntu2.2_amd64.deb ...
+Unpacking libbinutils:amd64 (2.38-4ubuntu2.2) over (2.38-4ubuntu2.1) ...
+Preparing to unpack .../27-binutils_2.38-4ubuntu2.2_amd64.deb ...
+Unpacking binutils (2.38-4ubuntu2.2) over (2.38-4ubuntu2.1) ...
+Preparing to unpack .../28-binutils-common_2.38-4ubuntu2.2_amd64.deb ...
+Unpacking binutils-common:amd64 (2.38-4ubuntu2.2) over (2.38-4ubuntu2.1) ...
+Preparing to unpack .../29-libssh-4_0.9.6-2ubuntu0.22.04.1_amd64.deb ...
+Unpacking libssh-4:amd64 (0.9.6-2ubuntu0.22.04.1) over (0.9.6-2build1) ...
+Preparing to unpack .../30-software-properties-common_0.99.22.7_all.deb ...
+Unpacking software-properties-common (0.99.22.7) over (0.99.22.6) ...
+Preparing to unpack .../31-python3-software-properties_0.99.22.7_all.deb ...
+Unpacking python3-software-properties (0.99.22.7) over (0.99.22.6) ...
+Preparing to unpack .../32-snapd_2.58+22.04.1_amd64.deb ...
+Unpacking snapd (2.58+22.04.1) over (2.58+22.04) ...
+Setting up libip4tc2:amd64 (1.8.7-1ubuntu5.1) ...
+Setting up python3-problem-report (2.20.11-0ubuntu82.5) ...
+Setting up libip6tc2:amd64 (1.8.7-1ubuntu5.1) ...
+Setting up libglib2.0-0:amd64 (2.72.4-0ubuntu2.2) ...
+No schema files found: doing nothing.
 Setting up distro-info-data (0.52ubuntu0.4) ...
+Setting up binutils-common:amd64 (2.38-4ubuntu2.2) ...
+Setting up libctf-nobfd0:amd64 (2.38-4ubuntu2.2) ...
+Setting up perl-modules-5.34 (5.34.0-3ubuntu1.2) ...
+Setting up xxd (2:8.2.3995-1ubuntu2.8) ...
+Setting up python3-apport (2.20.11-0ubuntu82.5) ...
+Setting up tzdata (2023c-0ubuntu0.22.04.2) ...
+
+Current default time zone: 'Europe/London'
+Local time is now:      Fri Jun 16 11:40:36 BST 2023.
+Universal Time is now:  Fri Jun 16 10:40:36 UTC 2023.
+Run 'dpkg-reconfigure tzdata' if you wish to change it.
+
+Setting up libcap2-bin (1:2.44-1ubuntu0.22.04.1) ...
+Setting up libglib2.0-data (2.72.4-0ubuntu2.2) ...
+Setting up vim-common (2:8.2.3995-1ubuntu2.8) ...
+Setting up python3-software-properties (0.99.22.7) ...
+Setting up libx11-data (2:1.7.5-1ubuntu0.2) ...
+Setting up libncurses6:amd64 (6.3-2ubuntu0.1) ...
+Setting up libpython3.10-minimal:amd64 (3.10.6-1~22.04.2ubuntu1.1) ...
+Setting up libncursesw6:amd64 (6.3-2ubuntu0.1) ...
+Setting up libxtables12:amd64 (1.8.7-1ubuntu5.1) ...
+Setting up libssh-4:amd64 (0.9.6-2ubuntu0.22.04.1) ...
+Setting up libx11-6:amd64 (2:1.7.5-1ubuntu0.2) ...
+Setting up libbinutils:amd64 (2.38-4ubuntu2.2) ...
+Setting up vim-runtime (2:8.2.3995-1ubuntu2.8) ...
+Setting up openssl (3.0.2-0ubuntu1.10) ...
+Setting up libpam-cap:amd64 (1:2.44-1ubuntu0.22.04.1) ...
+Setting up libctf0:amd64 (2.38-4ubuntu2.2) ...
+Setting up libperl5.34:amd64 (5.34.0-3ubuntu1.2) ...
+Setting up iptables (1.8.7-1ubuntu5.1) ...
+Setting up libglib2.0-bin (2.72.4-0ubuntu2.2) ...
+Setting up vim-tiny (2:8.2.3995-1ubuntu2.8) ...
+Setting up python3.10-minimal (3.10.6-1~22.04.2ubuntu1.1) ...
+Setting up apport (2.20.11-0ubuntu82.5) ...
+apport-autoreport.service is a disabled or a static unit, not starting it.
+Setting up libpython3.10-stdlib:amd64 (3.10.6-1~22.04.2ubuntu1.1) ...
+Setting up ca-certificates (20230311ubuntu0.22.04.1) ...
+Updating certificates in /etc/ssl/certs...
+rehash: warning: skipping ca-certificates.crt,it does not contain exactly one certificate or CRL
+19 added, 6 removed; done.
+Setting up perl (5.34.0-3ubuntu1.2) ...
+Setting up binutils-x86-64-linux-gnu (2.38-4ubuntu2.2) ...
+Setting up snapd (2.58+22.04.1) ...
+snapd.failure.service is a disabled or a static unit not running, not starting it.
+snapd.snap-repair.service is a disabled or a static unit not running, not starting it.
+Failed to restart snapd.mounts-pre.target: Operation refused, unit snapd.mounts-pre.target may be requested by dependency only (it is configured to refuse manual start/stop).
+See system logs and 'systemctl status snapd.mounts-pre.target' for details.
+Could not execute systemctl:  at /usr/bin/deb-systemd-invoke line 142.
+Setting up libpython3.10:amd64 (3.10.6-1~22.04.2ubuntu1.1) ...
+Setting up vim (2:8.2.3995-1ubuntu2.8) ...
+Setting up python3.10 (3.10.6-1~22.04.2ubuntu1.1) ...
+Setting up binutils (2.38-4ubuntu2.2) ...
+Setting up software-properties-common (0.99.22.7) ...
 Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
 /sbin/ldconfig.real: /usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link
 
+Processing triggers for man-db (2.10.2-1) ...
+Processing triggers for dbus (1.12.20-2ubuntu4.1) ...
+Processing triggers for ca-certificates (20230311ubuntu0.22.04.1) ...
+Updating certificates in /etc/ssl/certs...
+0 added, 0 removed; done.
+Running hooks in /etc/ca-certificates/update.d...
+done.
+
+
+
+installing wget...
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name           Version         Architecture Description
++++-==============-===============-============-=================================
+ii  wget           1.21.2-2ubuntu1 amd64        retrieves files from the web
+sudo apt install -y wget
+Reading package lists...
+Building dependency tree...
+Reading state information...
+wget is already the newest version (1.21.2-2ubuntu1).
+wget set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+success!
+
+
+
+installing ca-certificates...
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name            Version                 Architecture Description
++++-===============-=======================-============-=================================
+ii  ca-certificates 20230311ubuntu0.22.04.1 all          Common CA certificates
+sudo apt install -y ca-certificates
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ca-certificates is already the newest version (20230311ubuntu0.22.04.1).
+ca-certificates set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+success!
 
 
 
@@ -98,7 +374,15 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name           Version             Architecture Description
 +++-==============-===================-============-===================================================
 ii  git            1:2.34.1-1ubuntu1.9 amd64        fast, scalable, distributed revision control system
-already installed.
+sudo apt install -y git
+Reading package lists...
+Building dependency tree...
+Reading state information...
+git is already the newest version (1:2.34.1-1ubuntu1.9).
+git set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+success!
 
 
 
@@ -109,7 +393,27 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name           Version      Architecture Description
 +++-==============-============-============-=================================
 un  make           <none>       <none>       (no description available)
-already installed.
+sudo apt install -y make
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Suggested packages:
+  make-doc
+The following NEW packages will be installed:
+  make
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 180 kB of archives.
+After this operation, 426 kB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu jammy/main amd64 make amd64 4.3-4.1build1 [180 kB]
+Fetched 180 kB in 0s (410 kB/s)
+Selecting previously unselected package make.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24147 files and directories currently installed.)
+Preparing to unpack .../make_4.3-4.1build1_amd64.deb ...
+Unpacking make (4.3-4.1build1) ...
+Setting up make (4.3-4.1build1) ...
+Processing triggers for man-db (2.10.2-1) ...
+
+success!
 
 
 
@@ -125,11 +429,11 @@ The following additional packages will be installed:
   libfontconfig1 libfreetype6 libgcc-11-dev libgd3 libgomp1 libisl23 libitm1
   libjbig0 libjpeg-turbo8 libjpeg8 libjsoncpp25 liblsan0 libmpc3 libnsl-dev
   libquadmath0 librhash0 libtiff5 libtirpc-dev libtsan0 libubsan1 libwebp7
-  libxpm4 linux-libc-dev make manpages-dev rpcsvc-proto
+  libxpm4 linux-libc-dev manpages-dev rpcsvc-proto
 Suggested packages:
   cmake-doc ninja-build cmake-format cpp-doc gcc-11-locales gcc-multilib
   autoconf automake libtool flex bison gdb gcc-doc gcc-11-multilib gcc-11-doc
-  lrzip glibc-doc libgd-tools make-doc
+  lrzip glibc-doc libgd-tools
 The following NEW packages will be installed:
   cmake cmake-data cpp cpp-11 dh-elpa-helper emacsen-common fontconfig-config
   fonts-dejavu-core gcc gcc-11 gcc-11-base libarchive13 libasan6 libatomic1
@@ -137,9 +441,9 @@ The following NEW packages will be installed:
   libfontconfig1 libfreetype6 libgcc-11-dev libgd3 libgomp1 libisl23 libitm1
   libjbig0 libjpeg-turbo8 libjpeg8 libjsoncpp25 liblsan0 libmpc3 libnsl-dev
   libquadmath0 librhash0 libtiff5 libtirpc-dev libtsan0 libubsan1 libwebp7
-  libxpm4 linux-libc-dev make manpages-dev rpcsvc-proto
-0 upgraded, 46 newly installed, 0 to remove and 0 not upgraded.
-Need to get 56.7 MB of archives.
+  libxpm4 linux-libc-dev manpages-dev rpcsvc-proto
+0 upgraded, 45 newly installed, 0 to remove and 0 not upgraded.
+Need to get 56.5 MB of archives.
 After this operation, 186 MB of additional disk space will be used.
 Get:1 http://archive.ubuntu.com/ubuntu jammy/main amd64 libarchive13 amd64 3.6.0-1ubuntu1 [368 kB]
 Get:2 http://archive.ubuntu.com/ubuntu jammy/main amd64 libjsoncpp25 amd64 1.9.5-3 [80.0 kB]
@@ -179,17 +483,16 @@ Get:35 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libtiff5 amd64 
 Get:36 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libxpm4 amd64 1:3.5.12-1ubuntu0.22.04.1 [36.4 kB]
 Get:37 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgd3 amd64 2.3.0-2ubuntu2 [129 kB]
 Get:38 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libc-devtools amd64 2.35-0ubuntu3.1 [28.9 kB]
-Get:39 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 linux-libc-dev amd64 5.15.0-72.79 [1331 kB]
+Get:39 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 linux-libc-dev amd64 5.15.0-75.82 [1325 kB]
 Get:40 http://archive.ubuntu.com/ubuntu jammy/main amd64 libcrypt-dev amd64 1:4.4.27-1 [112 kB]
 Get:41 http://archive.ubuntu.com/ubuntu jammy/main amd64 rpcsvc-proto amd64 1.4.2-0ubuntu6 [68.5 kB]
 Get:42 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libtirpc-dev amd64 1.3.2-2ubuntu0.1 [192 kB]
 Get:43 http://archive.ubuntu.com/ubuntu jammy/main amd64 libnsl-dev amd64 1.3.0-2build2 [71.3 kB]
 Get:44 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libc6-dev amd64 2.35-0ubuntu3.1 [2099 kB]
-Get:45 http://archive.ubuntu.com/ubuntu jammy/main amd64 make amd64 4.3-4.1build1 [180 kB]
-Get:46 http://archive.ubuntu.com/ubuntu jammy/main amd64 manpages-dev all 5.10-1ubuntu1 [2309 kB]
-Fetched 56.7 MB in 6s (10.2 MB/s)
+Get:45 http://archive.ubuntu.com/ubuntu jammy/main amd64 manpages-dev all 5.10-1ubuntu1 [2309 kB]
+Fetched 56.5 MB in 5s (11.3 MB/s)
 Selecting previously unselected package libarchive13:amd64.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24137 files and directories currently installed.)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 24165 files and directories currently installed.)
 Preparing to unpack .../00-libarchive13_3.6.0-1ubuntu1_amd64.deb ...
 Unpacking libarchive13:amd64 (3.6.0-1ubuntu1) ...
 Selecting previously unselected package libjsoncpp25:amd64.
@@ -304,8 +607,8 @@ Selecting previously unselected package libc-devtools.
 Preparing to unpack .../37-libc-devtools_2.35-0ubuntu3.1_amd64.deb ...
 Unpacking libc-devtools (2.35-0ubuntu3.1) ...
 Selecting previously unselected package linux-libc-dev:amd64.
-Preparing to unpack .../38-linux-libc-dev_5.15.0-72.79_amd64.deb ...
-Unpacking linux-libc-dev:amd64 (5.15.0-72.79) ...
+Preparing to unpack .../38-linux-libc-dev_5.15.0-75.82_amd64.deb ...
+Unpacking linux-libc-dev:amd64 (5.15.0-75.82) ...
 Selecting previously unselected package libcrypt-dev:amd64.
 Preparing to unpack .../39-libcrypt-dev_1%3a4.4.27-1_amd64.deb ...
 Unpacking libcrypt-dev:amd64 (1:4.4.27-1) ...
@@ -321,18 +624,15 @@ Unpacking libnsl-dev:amd64 (1.3.0-2build2) ...
 Selecting previously unselected package libc6-dev:amd64.
 Preparing to unpack .../43-libc6-dev_2.35-0ubuntu3.1_amd64.deb ...
 Unpacking libc6-dev:amd64 (2.35-0ubuntu3.1) ...
-Selecting previously unselected package make.
-Preparing to unpack .../44-make_4.3-4.1build1_amd64.deb ...
-Unpacking make (4.3-4.1build1) ...
 Selecting previously unselected package manpages-dev.
-Preparing to unpack .../45-manpages-dev_5.10-1ubuntu1_all.deb ...
+Preparing to unpack .../44-manpages-dev_5.10-1ubuntu1_all.deb ...
 Unpacking manpages-dev (5.10-1ubuntu1) ...
 Setting up gcc-11-base:amd64 (11.3.0-1ubuntu1~22.04.1) ...
 Setting up manpages-dev (5.10-1ubuntu1) ...
 Setting up libxpm4:amd64 (1:3.5.12-1ubuntu0.22.04.1) ...
 Setting up libarchive13:amd64 (3.6.0-1ubuntu1) ...
 Setting up libdeflate0:amd64 (1.10-2) ...
-Setting up linux-libc-dev:amd64 (5.15.0-72.79) ...
+Setting up linux-libc-dev:amd64 (5.15.0-75.82) ...
 Setting up libgomp1:amd64 (12.1.0-2ubuntu1~22.04) ...
 Setting up libjbig0:amd64 (2.1-3.1ubuntu0.22.04.1) ...
 Setting up libasan6:amd64 (11.3.0-1ubuntu1~22.04.1) ...
@@ -340,7 +640,6 @@ Setting up libtirpc-dev:amd64 (1.3.2-2ubuntu0.1) ...
 Setting up rpcsvc-proto (1.4.2-0ubuntu6) ...
 Setting up emacsen-common (3.0.4) ...
 Setting up libfreetype6:amd64 (2.11.1+dfsg-1ubuntu0.2) ...
-Setting up make (4.3-4.1build1) ...
 Setting up dh-elpa-helper (2.0.9ubuntu1) ...
 Setting up libquadmath0:amd64 (12.1.0-2ubuntu1~22.04) ...
 Setting up libmpc3:amd64 (1.2.1-2build1) ...
@@ -404,10 +703,10 @@ After this operation, 54.6 MB of additional disk space will be used.
 Get:1 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libstdc++-11-dev amd64 11.3.0-1ubuntu1~22.04.1 [2087 kB]
 Get:2 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 g++-11 amd64 11.3.0-1ubuntu1~22.04.1 [11.4 MB]
 Get:3 http://archive.ubuntu.com/ubuntu jammy/main amd64 g++ amd64 4:11.2.0-1ubuntu1 [1412 B]
-Get:4 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libdpkg-perl all 1.21.1ubuntu2.1 [237 kB]
+Get:4 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libdpkg-perl all 1.21.1ubuntu2.2 [237 kB]
 Get:5 http://archive.ubuntu.com/ubuntu jammy/main amd64 bzip2 amd64 1.0.8-5build1 [34.8 kB]
 Get:6 http://archive.ubuntu.com/ubuntu jammy/main amd64 lto-disabled-list all 24 [12.5 kB]
-Get:7 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 dpkg-dev all 1.21.1ubuntu2.1 [922 kB]
+Get:7 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 dpkg-dev all 1.21.1ubuntu2.2 [922 kB]
 Get:8 http://archive.ubuntu.com/ubuntu jammy/main amd64 build-essential amd64 12.9ubuntu3 [4744 B]
 Get:9 http://archive.ubuntu.com/ubuntu jammy/main amd64 libfakeroot amd64 1.28-1ubuntu1 [31.5 kB]
 Get:10 http://archive.ubuntu.com/ubuntu jammy/main amd64 fakeroot amd64 1.28-1ubuntu1 [60.4 kB]
@@ -415,9 +714,9 @@ Get:11 http://archive.ubuntu.com/ubuntu jammy/main amd64 libalgorithm-diff-perl 
 Get:12 http://archive.ubuntu.com/ubuntu jammy/main amd64 libalgorithm-diff-xs-perl amd64 0.04-6build3 [11.9 kB]
 Get:13 http://archive.ubuntu.com/ubuntu jammy/main amd64 libalgorithm-merge-perl all 0.08-3 [12.0 kB]
 Get:14 http://archive.ubuntu.com/ubuntu jammy/main amd64 libfile-fcntllock-perl amd64 0.22-3build7 [33.9 kB]
-Fetched 14.9 MB in 2s (9663 kB/s)
+Fetched 14.9 MB in 1s (10.7 MB/s)
 Selecting previously unselected package libstdc++-11-dev:amd64.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 31593 files and directories currently installed.)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 31603 files and directories currently installed.)
 Preparing to unpack .../00-libstdc++-11-dev_11.3.0-1ubuntu1~22.04.1_amd64.deb ...
 Unpacking libstdc++-11-dev:amd64 (11.3.0-1ubuntu1~22.04.1) ...
 Selecting previously unselected package g++-11.
@@ -427,8 +726,8 @@ Selecting previously unselected package g++.
 Preparing to unpack .../02-g++_4%3a11.2.0-1ubuntu1_amd64.deb ...
 Unpacking g++ (4:11.2.0-1ubuntu1) ...
 Selecting previously unselected package libdpkg-perl.
-Preparing to unpack .../03-libdpkg-perl_1.21.1ubuntu2.1_all.deb ...
-Unpacking libdpkg-perl (1.21.1ubuntu2.1) ...
+Preparing to unpack .../03-libdpkg-perl_1.21.1ubuntu2.2_all.deb ...
+Unpacking libdpkg-perl (1.21.1ubuntu2.2) ...
 Selecting previously unselected package bzip2.
 Preparing to unpack .../04-bzip2_1.0.8-5build1_amd64.deb ...
 Unpacking bzip2 (1.0.8-5build1) ...
@@ -436,8 +735,8 @@ Selecting previously unselected package lto-disabled-list.
 Preparing to unpack .../05-lto-disabled-list_24_all.deb ...
 Unpacking lto-disabled-list (24) ...
 Selecting previously unselected package dpkg-dev.
-Preparing to unpack .../06-dpkg-dev_1.21.1ubuntu2.1_all.deb ...
-Unpacking dpkg-dev (1.21.1ubuntu2.1) ...
+Preparing to unpack .../06-dpkg-dev_1.21.1ubuntu2.2_all.deb ...
+Unpacking dpkg-dev (1.21.1ubuntu2.2) ...
 Selecting previously unselected package build-essential.
 Preparing to unpack .../07-build-essential_12.9ubuntu3_amd64.deb ...
 Unpacking build-essential (12.9ubuntu3) ...
@@ -466,12 +765,12 @@ Setting up bzip2 (1.0.8-5build1) ...
 Setting up libfakeroot:amd64 (1.28-1ubuntu1) ...
 Setting up fakeroot (1.28-1ubuntu1) ...
 update-alternatives: using /usr/bin/fakeroot-sysv to provide /usr/bin/fakeroot (fakeroot) in auto mode
-Setting up libdpkg-perl (1.21.1ubuntu2.1) ...
+Setting up libdpkg-perl (1.21.1ubuntu2.2) ...
 Setting up libstdc++-11-dev:amd64 (11.3.0-1ubuntu1~22.04.1) ...
 Setting up libalgorithm-diff-xs-perl (0.04-6build3) ...
 Setting up libalgorithm-merge-perl (0.08-3) ...
 Setting up g++-11 (11.3.0-1ubuntu1~22.04.1) ...
-Setting up dpkg-dev (1.21.1ubuntu2.1) ...
+Setting up dpkg-dev (1.21.1ubuntu2.2) ...
 Setting up g++ (4:11.2.0-1ubuntu1) ...
 update-alternatives: using /usr/bin/g++ to provide /usr/bin/c++ (c++) in auto mode
 Setting up build-essential (12.9ubuntu3) ...
@@ -498,9 +797,9 @@ Need to get 350 kB of archives.
 After this operation, 929 kB of additional disk space will be used.
 Get:1 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 unzip amd64 6.0-26ubuntu3.1 [174 kB]
 Get:2 http://archive.ubuntu.com/ubuntu jammy/main amd64 zip amd64 3.0-12build2 [176 kB]
-Fetched 350 kB in 0s (2283 kB/s)
+Fetched 350 kB in 1s (627 kB/s)
 Selecting previously unselected package unzip.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 32999 files and directories currently installed.)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 33009 files and directories currently installed.)
 Preparing to unpack .../unzip_6.0-26ubuntu3.1_amd64.deb ...
 Unpacking unzip (6.0-26ubuntu3.1) ...
 Selecting previously unselected package zip.
@@ -521,7 +820,15 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name           Version         Architecture Description
 +++-==============-===============-============-=================================
 ii  unzip          6.0-26ubuntu3.1 amd64        De-archiver for .zip files
-already installed.
+sudo apt install -y unzip
+Reading package lists...
+Building dependency tree...
+Reading state information...
+unzip is already the newest version (6.0-26ubuntu3.1).
+unzip set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+success!
 
 
 
@@ -543,9 +850,9 @@ Get:3 http://archive.ubuntu.com/ubuntu jammy/main amd64 libsm6 amd64 2:1.2.3-1bu
 Get:4 http://archive.ubuntu.com/ubuntu jammy/main amd64 libxt6 amd64 1:1.2.1-1 [177 kB]
 Get:5 http://archive.ubuntu.com/ubuntu jammy/main amd64 libxmu6 amd64 2:1.1.3-3 [49.6 kB]
 Get:6 http://archive.ubuntu.com/ubuntu jammy/universe amd64 xclip amd64 0.13-2 [18.3 kB]
-Fetched 327 kB in 0s (2738 kB/s)
+Fetched 327 kB in 1s (577 kB/s)
 Selecting previously unselected package x11-common.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 33031 files and directories currently installed.)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 33041 files and directories currently installed.)
 Preparing to unpack .../0-x11-common_1%3a7.7+23ubuntu2_all.deb ...
 Unpacking x11-common (1:7.7+23ubuntu2) ...
 Selecting previously unselected package libice6:amd64.
@@ -585,7 +892,15 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name           Version       Architecture Description
 +++-==============-=============-============-=================================
 ii  htop           3.0.5-7build2 amd64        interactive processes viewer
-already installed.
+sudo apt install -y htop
+Reading package lists...
+Building dependency tree...
+Reading state information...
+htop is already the newest version (3.0.5-7build2).
+htop set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+success!
 
 
 
@@ -600,9 +915,9 @@ The following NEW packages will be installed:
 Need to get 53.4 kB of archives.
 After this operation, 279 kB of additional disk space will be used.
 Get:1 http://archive.ubuntu.com/ubuntu jammy/main amd64 whois amd64 5.5.13 [53.4 kB]
-Fetched 53.4 kB in 0s (1003 kB/s)
+Fetched 53.4 kB in 0s (180 kB/s)
 Selecting previously unselected package whois.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 33093 files and directories currently installed.)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 33103 files and directories currently installed.)
 Preparing to unpack .../whois_5.5.13_amd64.deb ...
 Unpacking whois (5.5.13) ...
 Setting up whois (5.5.13) ...
@@ -634,9 +949,9 @@ Get:1 http://archive.ubuntu.com/ubuntu jammy/universe amd64 libcmark-gfm0.29.0.g
 Get:2 http://archive.ubuntu.com/ubuntu jammy/universe amd64 libcmark-gfm-extensions0.29.0.gfm.3 amd64 0.29.0.gfm.3-3 [25.1 kB]
 Get:3 http://archive.ubuntu.com/ubuntu jammy/universe amd64 pandoc-data all 2.9.2.1-3ubuntu2 [81.8 kB]
 Get:4 http://archive.ubuntu.com/ubuntu jammy/universe amd64 pandoc amd64 2.9.2.1-3ubuntu2 [20.3 MB]
-Fetched 20.6 MB in 2s (10.9 MB/s)
+Fetched 20.6 MB in 1s (15.8 MB/s)
 Selecting previously unselected package libcmark-gfm0.29.0.gfm.3:amd64.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 33102 files and directories currently installed.)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 33112 files and directories currently installed.)
 Preparing to unpack .../libcmark-gfm0.29.0.gfm.3_0.29.0.gfm.3-3_amd64.deb ...
 Unpacking libcmark-gfm0.29.0.gfm.3:amd64 (0.29.0.gfm.3-3) ...
 Selecting previously unselected package libcmark-gfm-extensions0.29.0.gfm.3:amd64.
@@ -668,7 +983,58 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name           Version      Architecture Description
 +++-==============-============-============-=================================
 un  nodejs         <none>       <none>       (no description available)
-already installed.
+sudo apt install -y nodejs
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  javascript-common libc-ares2 libjs-highlight.js libnode72 nodejs-doc
+Suggested packages:
+  apache2 | lighttpd | httpd npm
+The following NEW packages will be installed:
+  javascript-common libc-ares2 libjs-highlight.js libnode72 nodejs nodejs-doc
+0 upgraded, 6 newly installed, 0 to remove and 0 not upgraded.
+Need to get 13.7 MB of archives.
+After this operation, 53.9 MB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu jammy/main amd64 javascript-common all 11+nmu1 [5936 B]
+Get:2 http://archive.ubuntu.com/ubuntu jammy/universe amd64 libjs-highlight.js all 9.18.5+dfsg1-1 [367 kB]
+Get:3 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libc-ares2 amd64 1.18.1-1ubuntu0.22.04.2 [45.0 kB]
+Get:4 http://archive.ubuntu.com/ubuntu jammy/universe amd64 libnode72 amd64 12.22.9~dfsg-1ubuntu3 [10.8 MB]
+Get:5 http://archive.ubuntu.com/ubuntu jammy/universe amd64 nodejs-doc all 12.22.9~dfsg-1ubuntu3 [2409 kB]
+Get:6 http://archive.ubuntu.com/ubuntu jammy/universe amd64 nodejs amd64 12.22.9~dfsg-1ubuntu3 [122 kB]
+Fetched 13.7 MB in 1s (13.4 MB/s)
+Selecting previously unselected package javascript-common.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 33337 files and directories currently installed.)
+Preparing to unpack .../0-javascript-common_11+nmu1_all.deb ...
+Unpacking javascript-common (11+nmu1) ...
+Selecting previously unselected package libjs-highlight.js.
+Preparing to unpack .../1-libjs-highlight.js_9.18.5+dfsg1-1_all.deb ...
+Unpacking libjs-highlight.js (9.18.5+dfsg1-1) ...
+Selecting previously unselected package libc-ares2:amd64.
+Preparing to unpack .../2-libc-ares2_1.18.1-1ubuntu0.22.04.2_amd64.deb ...
+Unpacking libc-ares2:amd64 (1.18.1-1ubuntu0.22.04.2) ...
+Selecting previously unselected package libnode72:amd64.
+Preparing to unpack .../3-libnode72_12.22.9~dfsg-1ubuntu3_amd64.deb ...
+Unpacking libnode72:amd64 (12.22.9~dfsg-1ubuntu3) ...
+Selecting previously unselected package nodejs-doc.
+Preparing to unpack .../4-nodejs-doc_12.22.9~dfsg-1ubuntu3_all.deb ...
+Unpacking nodejs-doc (12.22.9~dfsg-1ubuntu3) ...
+Selecting previously unselected package nodejs.
+Preparing to unpack .../5-nodejs_12.22.9~dfsg-1ubuntu3_amd64.deb ...
+Unpacking nodejs (12.22.9~dfsg-1ubuntu3) ...
+Setting up javascript-common (11+nmu1) ...
+Setting up libc-ares2:amd64 (1.18.1-1ubuntu0.22.04.2) ...
+Setting up libnode72:amd64 (12.22.9~dfsg-1ubuntu3) ...
+Setting up libjs-highlight.js (9.18.5+dfsg1-1) ...
+Setting up nodejs (12.22.9~dfsg-1ubuntu3) ...
+update-alternatives: using /usr/bin/nodejs to provide /usr/bin/js (js) in auto mode
+Setting up nodejs-doc (12.22.9~dfsg-1ubuntu3) ...
+Processing triggers for man-db (2.10.2-1) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+/sbin/ldconfig.real: /usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link
+
+
+success!
 
 
 
@@ -679,7 +1045,34 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name           Version      Architecture Description
 +++-==============-============-============-=================================
 un  zsh            <none>       <none>       (no description available)
-already installed.
+sudo apt install -y zsh
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  zsh-common
+Suggested packages:
+  zsh-doc
+The following NEW packages will be installed:
+  zsh zsh-common
+0 upgraded, 2 newly installed, 0 to remove and 0 not upgraded.
+Need to get 4794 kB of archives.
+After this operation, 18.2 MB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu jammy/main amd64 zsh-common all 5.8.1-1 [3985 kB]
+Get:2 http://archive.ubuntu.com/ubuntu jammy/main amd64 zsh amd64 5.8.1-1 [809 kB]
+Fetched 4794 kB in 1s (5698 kB/s)
+Selecting previously unselected package zsh-common.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 33707 files and directories currently installed.)
+Preparing to unpack .../zsh-common_5.8.1-1_all.deb ...
+Unpacking zsh-common (5.8.1-1) ...
+Selecting previously unselected package zsh.
+Preparing to unpack .../archives/zsh_5.8.1-1_amd64.deb ...
+Unpacking zsh (5.8.1-1) ...
+Setting up zsh-common (5.8.1-1) ...
+Setting up zsh (5.8.1-1) ...
+Processing triggers for man-db (2.10.2-1) ...
+
+success!
 
 
 
@@ -690,4 +1083,42 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name           Version      Architecture Description
 +++-==============-============-============-=================================
 un  tcsh           <none>       <none>       (no description available)
-already installed.
+sudo apt install -y tcsh
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following NEW packages will be installed:
+  tcsh
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 422 kB of archives.
+After this operation, 1351 kB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu jammy/universe amd64 tcsh amd64 6.21.00-1.1 [422 kB]
+Fetched 422 kB in 1s (791 kB/s)
+Selecting previously unselected package tcsh.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 35181 files and directories currently installed.)
+Preparing to unpack .../tcsh_6.21.00-1.1_amd64.deb ...
+Unpacking tcsh (6.21.00-1.1) ...
+Setting up tcsh (6.21.00-1.1) ...
+update-alternatives: using /bin/tcsh to provide /bin/csh (csh) in auto mode
+Processing triggers for man-db (2.10.2-1) ...
+
+success!
+
+
+
+installing snapd...
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name           Version      Architecture Description
++++-==============-============-============-============================================
+ii  snapd          2.58+22.04.1 amd64        Daemon and tooling that enable snap packages
+sudo apt install -y snapd
+Reading package lists...
+Building dependency tree...
+Reading state information...
+snapd is already the newest version (2.58+22.04.1).
+snapd set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+success!

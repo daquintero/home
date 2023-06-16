@@ -1,4 +1,5 @@
-for pkg in docker.io docker-doc docker-compose podman-docker containerd runc; do sudo apt-get remove $pkg; donei
+cd $HOME
+for pkg in docker.io docker-doc docker-compose podman-docker containerd runc; do sudo apt-get remove $pkg; done
 sudo apt install gnome-terminal
 sudo apt remove docker-desktop
 rm -r $HOME/.docker/desktop
