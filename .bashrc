@@ -131,3 +131,5 @@ mamba activate base
 export PATH="$PATH:/home/daquintero/.local/bin"
 export VISUAL=vim
 export EDITOR="$VISUAL"
+
+eval "$(rbenv init -)"
