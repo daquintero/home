@@ -14,13 +14,43 @@ WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
 
 
 
+installing wget...
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
+
+
+
+installing ca-certificates...
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
+
+
+
 installing git...
-already installed.
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
 
 
 
 installing make...
-already installed.
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
 
 
 
@@ -58,7 +88,12 @@ success!
 
 
 installing unzip...
-already installed.
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
 
 
 
@@ -74,7 +109,12 @@ success!
 
 
 installing htop...
-already installed.
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
 
 
 
@@ -101,14 +141,39 @@ success!
 
 
 installing nodejs...
-already installed.
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
 
 
 
 installing zsh...
-already installed.
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
 
 
 
 installing tcsh...
-already installed.
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
+
+
+
+installing snapd...
+sudo apt install -y 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+success!
