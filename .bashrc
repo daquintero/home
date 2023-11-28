@@ -116,20 +116,16 @@ if ! shopt -oq posix; then
   fi
 fi
 
-alias lsa="ls -a"
-alias pycharm="/opt/pycharm-*/bin/pycharm.sh"
-alias webstorm="/opt/WebStorm-*/bin/webstorm.sh"
-
-# Scripts
-source $HOME/.anaconda/etc/profile.d/conda.sh
-source $HOME/.anaconda/etc/profile.d/mamba.sh
-
-
-mamba activate base
-
-# Created by `pipx` on 2023-06-01 07:43:26
-export PATH="$PATH:/home/daquintero/.local/bin"
-export VISUAL=vim
+export VISUAL=nvim
 export EDITOR="$VISUAL"
 
-eval "$(rbenv init -)"
+# Created by `pipx` on 2023-11-17 10:34:13
+export PATH="$PATH:/home/daquintero/.local/bin"
+
+# This check to make sure the GPG Agent is running and if not, starts it
+if [[ -f "~/.gnupg/.gpg-agent-info" && -n "$(pgrep gpg-agent)" ]]; then    
+  source ~/.gnupg/.gpg-agent-info
+  export GPG_AGENT_INFO
+else
+  eval $(eval $(gpg-agent --daemon --options ~/.gnupg/gpg-agent.conf))
+fi
