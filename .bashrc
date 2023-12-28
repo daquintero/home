@@ -116,20 +116,13 @@ if ! shopt -oq posix; then
   fi
 fi
 
-alias lsa="ls -a"
-alias pycharm="/opt/pycharm-*/bin/pycharm.sh"
-alias webstorm="/opt/WebStorm-*/bin/webstorm.sh"
-
-# Scripts
-source $HOME/.anaconda/etc/profile.d/conda.sh
-source $HOME/.anaconda/etc/profile.d/mamba.sh
-
-
-mamba activate base
-
-# Created by `pipx` on 2023-06-01 07:43:26
-export PATH="$PATH:/home/daquintero/.local/bin"
-export VISUAL=vim
+export VISUAL=nvim
 export EDITOR="$VISUAL"
 
-eval "$(rbenv init -)"
+# Created by `pipx` on 2023-11-17 10:34:13
+export PATH="$PATH:/home/daquintero/.local/bin"
+
+eval "$(micromamba shell hook --shell bash)"
+
+export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64{LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}

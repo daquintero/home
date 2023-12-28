@@ -136,6 +136,7 @@ link() {
 #-------------------------------------------------------------------------------
 
 ## build tools
+apt_install curl
 apt_install wget
 apt_install ca-certificates
 apt_install git
