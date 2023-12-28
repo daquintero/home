@@ -122,10 +122,7 @@ export EDITOR="$VISUAL"
 # Created by `pipx` on 2023-11-17 10:34:13
 export PATH="$PATH:/home/daquintero/.local/bin"
 
-# This check to make sure the GPG Agent is running and if not, starts it
-if [[ -f "~/.gnupg/.gpg-agent-info" && -n "$(pgrep gpg-agent)" ]]; then    
-  source ~/.gnupg/.gpg-agent-info
-  export GPG_AGENT_INFO
-else
-  eval $(eval $(gpg-agent --daemon --options ~/.gnupg/gpg-agent.conf))
-fi
+eval "$(micromamba shell hook --shell bash)"
+
+export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64{LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
