@@ -34,3 +34,7 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 # Created by `pipx` on 2023-11-17 10:34:13
 export PATH="$PATH:/home/daquintero/.local/bin"
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+if [ -e /home/daquintero/.nix-profile/etc/profile.d/nix.sh ]; then . /home/daquintero/.nix-profile/etc/profile.d/nix.sh; fi # added by Nix installer
