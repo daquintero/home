@@ -38,3 +38,11 @@ export PATH="$PATH:/home/daquintero/.local/bin"
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 if [ -e /home/daquintero/.nix-profile/etc/profile.d/nix.sh ]; then . /home/daquintero/.nix-profile/etc/profile.d/nix.sh; fi # added by Nix installer
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
